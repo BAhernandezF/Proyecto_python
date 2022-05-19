@@ -1,2 +1,2 @@
 # Proyecto_python
-un proyecto de practica practicandoooo
+un proyecto de practica practicandoo
